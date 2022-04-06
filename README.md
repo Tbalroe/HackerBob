@@ -9,5 +9,9 @@ In the project directory, you can run:
 ### `npm start`
 
 This command runs the entire app.
+
+### Party mode
+
 The app has two modes, one is boring mode, the other is party mode.
+
 Party mode is accessed by pressing the beauitul button at the top of the project.
